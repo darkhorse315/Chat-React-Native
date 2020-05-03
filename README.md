@@ -58,6 +58,11 @@ Secrets.API_URL  // 'https://myapi.com'
 Secrets.GOOGLE_MAPS_API_KEY  // 'abcdefgh'
 ```
 
+## If you need backend API, please contact me.
+
+Email: darkhorse315@outlook.com
+Skype: live:darkhorse315
+
 The `.env` file is ignored by git keeping those secrets out of your repo.
 
 ### Get started:
